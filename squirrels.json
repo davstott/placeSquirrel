@@ -1,0 +1,45 @@
+{
+"b" : {"url" : "http://farm9.staticflickr.com/8028/7482085016_1682314fd6_z.jpg",
+     "name" : "Squirrel",
+     "desc" : "squirrel New England",
+     "author" : "tess/",
+     "authorUrl" : "http://www.flickr.com/photos/davenport/7482085016/",     
+     "cc" : "http://creativecommons.org/licenses/by-nc/2.0/"},
+
+
+"c" : {"url" : "http://farm1.staticflickr.com/29/54695248_21c3c00703_z.jpg",
+     "name" : "Squirrel",
+     "desc" : "Squirrel at Volcan Poas, Costa Rica",
+     "author" : "ogwen",
+     "authorUrl" : "http://www.flickr.com/photos/ogwen/54695248/",
+     "cc" : "http://creativecommons.org/licenses/by/2.0/"},
+
+"d" : {"url" : "http://farm3.staticflickr.com/2076/2213865100_a968430bbc_z.jpg",
+    "name" : "Squirrel 3896",
+    "desc" : "One of the many squirrels at a small park in Fremont. I love watching these guys.",
+    "author" : "CatDancing",
+    "authorUrl" : "http://www.flickr.com/photos/catdancing/2213865100/",
+    "cc" : "http://creativecommons.org/licenses/by-nc/2.0/"},
+    
+"e" : {"url" : "http://farm4.staticflickr.com/3578/3497905622_ae29ac99b6_z.jpg",
+    "name" : "Squirrel",
+    "desc" : "Squirrel",
+    "author" : "PremSagar",
+    "authorUrl" : "http://www.flickr.com/photos/premsagar/3497905622/",
+    "cc" : "http://creativecommons.org/licenses/by-nc-sa/2.0/"},    
+
+
+"f" : {"url" : "http://farm9.staticflickr.com/8290/7809601088_41e6779d58_z.jpg",
+     "name" : "2012_USA_156",
+     "desc" : "Yellowstone National Park, squirrel",
+     "author" : "sarabrag",
+     "authorUrl" : "http://www.flickr.com/photos/sarabrag/7809601088/",
+     "cc" : "http://creativecommons.org/licenses/by-nc/2.0/"},
+
+"g" : {"url" : "http://farm4.staticflickr.com/3007/2711415105_a5b67e0ddd_z.jpg",
+    "name" : "Squirrel",
+    "desc" : "This squirrel has managed to eat out of every squirrel-proof feeder that I have",
+    "author" : "Edith Maracle",
+    "authorUrl" : "http://www.flickr.com/photos/7490680@N02/2711415105/",
+    "cc" : "http://creativecommons.org/licenses/by-nc/2.0/"}
+}

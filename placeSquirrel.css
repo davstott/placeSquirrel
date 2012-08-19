@@ -1,0 +1,21 @@
+/* colour scheme is Kuler's analogous from 1a7e00 (079518, 078B3B, 1A7E00, 569507, 7E8B07)
+ *  except the dark one which is 061c00
+ * todo: put some nice borders in
+ */
+
+.example {
+  font-family: monospace; 
+}
+
+.reverse {
+  background-color: #061c00;
+  color: white;
+}
+
+h1 {
+  color: #1a7e00;
+}
+h2 {
+  color: #1a7e00;
+}
+
